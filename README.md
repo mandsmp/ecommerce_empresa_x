@@ -16,3 +16,9 @@ melhoria 1, melhoria 2...
 * CSS
 * JavaScript
 * PHP
+
+### Funcionalidades a desenvolver:
+
+1. Área
+2. Integração
+3. Sistema
