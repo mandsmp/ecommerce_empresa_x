@@ -30,4 +30,4 @@ melhoria 1, melhoria 2...
 
 #### Link:
 
-![instagram](https://github.com/mandsmp/ecommerce_empresa_x.git)
+[instagram](https://github.com/mandsmp/ecommerce_empresa_x.git)
