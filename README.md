@@ -33,3 +33,11 @@ melhoria 1, melhoria 2...
 [instagram](https://github.com/mandsmp/ecommerce_empresa_x.git)
 
 [![logo python](img/640px-Python.svg.png)](https://github.com/mandsmp/ecommerce_empresa_x.git)
+
+## Código da função soma:
+
+```javascript
+function soma(a,b){
+    return a+b;
+} 
+``` 
