@@ -9,3 +9,10 @@ _Home com **banner**, checkout,..._
 ###### Melhorias do projeto:
 
 melhoria 1, melhoria 2...
+
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
