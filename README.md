@@ -23,3 +23,7 @@ melhoria 1, melhoria 2...
     1. jdkfa
 2. Integração
 3. Sistema
+
+#### Imagem do python
+
+![Logo do python](img/640px-Python.svg.png)
