@@ -44,6 +44,6 @@ function soma(a,b){
 
 ## Lista de tarefas:
 
-- [ x ] Área
+- [x] Área
 - [ ] Integração
 - [ ] Pagamentoss
